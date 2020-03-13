@@ -1,0 +1,1 @@
+A small vanilla JavaScript built in 2014.
